@@ -65,7 +65,7 @@ Aplikasi Android membungkus platform web (PWA) nilaia.com dengan pengalaman nati
 
 <div align="center">
 
-🌐 **[nilaia.com](https://nilaia.com)** · 📧 [wasriyono26@gmail.com](mailto:wasriyono26@gmail.com)
+🌐 **[nilaia.com](https://nilaia.com)** · 📧 [cahyono060799@gmail.com](mailto:cahyono060799@gmail.com)
 
 <i>Biar ga cuma dapet "C", mari kita kejar Nilai A bareng AI! ⚡</i>
 

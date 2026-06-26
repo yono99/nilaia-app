@@ -39,12 +39,13 @@
 
 ## 📸 Tangkapan Layar
 
-<!-- Ganti placeholder di bawah dengan screenshot asli: drag-drop gambar ke editor README lewat GitHub web -->
 <div align="center">
-  <img src="https://placehold.co/220x460/0F1E3D/FFFFFF?text=Home" width="200" />
-  <img src="https://placehold.co/220x460/0E7C66/FFFFFF?text=Tryout" width="200" />
-  <img src="https://placehold.co/220x460/2563EB/FFFFFF?text=Hasil" width="200" />
+  <img src="screenshots/home.jpg" width="200" alt="Beranda" />
+  <img src="screenshots/tryout.jpg" width="200" alt="Tryout SKD CPNS" />
+  <img src="screenshots/hasil.jpg" width="200" alt="Hasil tryout" />
 </div>
+
+<div align="center"><sub>Beranda · Simulasi Tryout SKD · Hasil & Rekap</sub></div>
 
 ## 🛠️ Dibangun Dengan
 
